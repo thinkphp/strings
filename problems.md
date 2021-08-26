@@ -9,8 +9,9 @@ Fisierul de intrare sir.in contine o singura linie pe care se afla numarul natur
 Fisierul de iesire sir.out va contine o singura linie pe care se afla al
 n-lea termen din sir.
 
-Input: 4
-Output: bab
+     Input: 4
+
+     Output: bab
 
 (O.J.I. 2003, class a 7-a)
 
