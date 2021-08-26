@@ -9,7 +9,7 @@ n-lea termen din sir.
 Input: 4
 Output: bab
 
-(O.J.I. 2003, class a V||-a)
+(O.J.I. 2003, class a 7-a)
 */
 
 #include <iostream>
