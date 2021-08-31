@@ -14,7 +14,7 @@ n-lea termen din sir. (Mircea Pasoi. Fundamentele programarii)
 
 (O.J.I. 2003, class a 7-a)
 
-## #2 https://ideone.com/q3ZiKY (C Language) https://ideone.com/qWN3LO (Python3 language)
+## #2 https://ideone.com/q3ZiKY (C Lang) https://ideone.com/qWN3LO (Python3 lang)
 
 Se citeste de la tastatura un numar natural cu cel mult 100 de cifre. Determinati
 cea mai lunga secventa de cifre consecutive, pozitia de inceput a acesteia si
