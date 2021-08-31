@@ -22,12 +22,14 @@ cea mai lunga secventa de cifre consecutive, pozitia de inceput a acesteia si
 continutul. In caz ca exista mai multe secvente de aceeasi dimensiune maxima,
 afisati-o pe prima din sir.
 
-Input:
-777123411177
+Input: 777123411177
 
 Output:
+
 Lungimea maxima: 4
+
 Prima pozitie: 4
+
 Subsirul: 1234
 
 
